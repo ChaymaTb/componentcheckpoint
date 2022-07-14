@@ -1,0 +1,8 @@
+*{
+  background-color: #D5DBDB;
+}
+.App{
+  margin: 50px 400px;
+  display: flex;
+  flex-wrap: wrap;
+}
