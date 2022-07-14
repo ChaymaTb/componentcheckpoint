@@ -1,7 +1,7 @@
 const Profilephoto = () => {
     return (
         <div>
-            <img src="./cool.jpg" alt="Error*_*" />
+            <img src="./photo/cool.jpg" alt="Error*_*" />
         </div>
     );
 };
